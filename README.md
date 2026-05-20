@@ -250,4 +250,4 @@ Faris Ahmad Rizky Azizy
 
 # Live Demo
 
-https://customer-churn-prediction.streamlit.app
+https://xgboost-churn-prediction.streamlit.app
